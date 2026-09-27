@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ba33ad23c528cd7e0337d703",
+  "owner": "kqqdgcnucp",
+  "repo": "page-09901ba3ac46c125db44d10e",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "09901ba3ac46c125db44d10e",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "446fbb633467cdd072c97eb04c1c0391b0019a9412b0770e1db81426ef6a78b4",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供机场订阅与 VPN 梯子网络加速说明，集中展示套餐对比、使用场景、操作步骤和客户端下载入口，方便按需选择加速器方案。",
+          "AI_DESCRIPTION": "44F网络提供机场订阅与 VPN 梯子网络加速说明，集中展示套餐对比、使用场景、操作步骤和客户端下载入口，方便按需选择加速器方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F3;color:#2B241F;line-height:1.7;font-size:16px}a{color:#C94A3A;text-decoration:none}a:hover{text-decoration:underline}header{background:#FFF1EA;border-bottom:1px solid #F0D4C8;position:sticky;top:0}header .bar{max-width:980px;margin:0 auto;padding:12px 16px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand-mark{font-weight:700;color:#C94A3A;letter-spacing:.04em}nav{display:flex;flex-wrap:wrap;gap:12px 16px}nav a{color:#4A3C36;font-size:14px}main{max-width:980px;margin:0 auto;padding:20px 16px 48px}h1{font-size:28px;line-height:1.3;color:#1F1815;margin:8px 0 12px}h2{font-size:22px;margin:28px 0 12px;color:#1F1815;border-left:4px solid #E07060;padding-left:10px}h3{font-size:17px;margin:14px 0 8px;color:#3A2E28}.lead{font-size:17px;color:#4A3C36;margin-bottom:14px}.kicker{display:inline-block;background:#E07060;color:#fff;font-size:12px;padding:3px 8px;letter-spacing:.08em;margin-bottom:8px}.hero{background:#fff;border:1px solid #F0D4C8;padding:18px 16px;margin-bottom:18px}.split{display:flex;flex-wrap:wrap;gap:12px}.split>div{flex:1 1 280px}.note{background:#FFF1EA;padding:12px 14px;border:1px solid #F0D4C8;font-size:14px;color:#5A4A44}.grid{display:flex;flex-wrap:wrap;gap:10px}.card{flex:1 1 220px;background:#fff;border:1px solid #EED3C8;padding:12px 14px}.card h3{margin-top:0}.steps{counter-reset:step}.steps li{list-style:none;background:#fff;border:1px solid #EED3C8;padding:12px 14px;margin-bottom:8px;display:flex;gap:10px;align-items:flex-start}.steps li:before{counter-increment:step;content:counter(step);min-width:28px;height:28px;background:#E07060;color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700}.plans-wrap{background:#fff;border:2px solid #E07060;padding:14px 12px;margin:8px 0 12px}#clients{background:#FFF1EA;padding:14px 12px;border:1px solid #F0D4C8}details{background:#fff;border:1px solid #EED3C8;margin-bottom:8px;padding:8px 12px}summary{cursor:pointer;font-weight:600;color:#1F1815}details p{margin-top:8px;color:#4A3C36}footer{max-width:980px;margin:0 auto;padding:8px 16px 32px;font-size:13px;color:#6A5A54}.muted{color:#6A5A54;font-size:14px}ul.plain{margin:8px 0 8px 18px}</style><header><div class=\"bar\"><span class=\"brand-mark\">44F网络</span><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"intro\"><span class=\"kicker\">机场订阅 · VPN 加速</span><h1>44F网络 官方网站</h1><p class=\"lead\">44F网络面向需要跨境访问与日常网络加速的用户，集中说明机场订阅、VPN 梯子用法以及客户端下载入口。本页以套餐对比为主线，便于先看清档位差异，再按设备与流量需求选择方案。</p><div class=\"split\"><div><p>若你正在寻找可长期使用的加速器与订阅节点服务，可先阅读简介与场景，再对照下方套餐模块。客户端安装与导入步骤放在同一页，减少来回跳转。</p></div><div class=\"note\">本站仅依据公开页面信息介绍 44F网络 的使用方式与套餐入口，不额外宣称节点数量、测速数据或第三方评价。具体流量、设备台数与线路能力以套餐卡片为准。</div></div></section><section id=\"plans\"><h2>套餐对比</h2><p class=\"muted\">对比时建议同时看流量额度、同时在线设备数以及是否需要更高优先级支持。价格与权益以模块内展示为准，正文不重复抄写数值，避免与实时套餐不一致。</p><div class=\"plans-wrap\">{{PLANS_HTML}}</div><p>选定档位后，再到客户端区域完成下载与订阅导入。个人轻度访问、多设备家庭使用、团队统一出口，通常对应不同档位，不必一上来就选最高规格。</p></section><section id=\"scenes\"><h2>使用场景</h2><p>44F网络可作为日常梯子与网络加速工具，配合机场订阅在浏览器、系统代理或专用客户端中使用。以下场景按需求整理，便于判断是否匹配。</p><div class=\"grid\"><article class=\"card\"><h3>跨境办公与协作</h3><p>远程文档、会议系统和海外代码仓库访问不稳定时，可用订阅将指定应用走加速通道，减少来回切换系统代理的成本。</p></article><article class=\"card\"><h3>资料检索与课程</h3><p>查阅公开论文、课程平台或开发文档时，网络加速有助于降低超时与中断。按课程周期选择月付或年付即可。</p></article><article class=\"card\"><h3>影音与内容平台</h3><p>需要更顺畅地打开境外流媒体或播客时，优先观察套餐是否标注相应解锁能力，再在客户端中切换对应策略。</p></article><article class=\"card\"><h3>游戏与实时通讯</h3><p>对延迟更敏感的游戏或语音，可把加速范围限定在相关程序，避免全局代理占用不必要的流量。</p></article><article class=\"card\"><h3>差旅与公共网络</h3><p>酒店或公共 Wi-Fi 环境下，用客户端建立加密通道，把邮箱、网盘和办公软件纳入保护范围。</p></article></div></section><section id=\"guide\"><h2>操作说明</h2><p>完成 44F网络 订阅后，按下列顺序即可开始使用。各系统客户端入口见下方模块，导入格式以你下载的客户端说明为准。</p><ol class=\"steps\"><li><div><h3>注册并对照套餐</h3><p>回到套餐对比区确认流量与设备上限，选择与使用强度匹配的一档，完成订阅。不要在未看清权益前更换多个档位。</p></div></li><li><div><h3>下载对应客户端</h3><p>打开客户端下载区域，按手机或电脑系统获取安装包。仅通过本页提供的入口获取，避免来路不明的安装文件。</p></div></li><li><div><h3>导入机场订阅</h3><p>在用户中心复制订阅链接，粘贴到客户端的订阅栏并更新节点列表。若客户端支持二维码，也可用同一订阅生成。</p></div></li><li><div><h3>选择策略后连接</h3><p>首次建议使用规则分流：浏览器与指定应用走代理，国内站点直连。确认能打开目标站点后再按需改为全局。</p></div></li><li><div><h3>日常维护</h3><p>流量将尽或设备数不够时再回到套餐对比升级。客户端保持自动更新订阅，遇到失败先更新订阅再切换线路。</p></div></li></ol></section><section id=\"clients\"><h2>客户端下载</h2><p>44F网络 通过专用客户端或兼容的代理工具使用机场订阅。请按操作系统选择，安装完成后导入订阅即可作为 VPN 梯子与加速器使用。</p>{{CLIENTS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>44F网络是什么？和普通 VPN 有何关系？</summary><p>44F网络是提供机场订阅与网络加速入口的服务站点。用户通过订阅获取可更新的节点配置，在客户端中作为梯子使用，覆盖浏览、办公与内容访问，而不是单一固定线路的传统 VPN 账号。</p></details><details><summary>如何从官网完成客户端下载？</summary><p>在本页「客户端下载」一节按系统选择即可。官方网站把套餐、说明和下载放在同一页面，安装后导入订阅链接，无需寻找散落的第三方打包。</p></details><details><summary>怎样判断该选哪一档套餐？</summary><p>先估算同时在线的设备数量和每月大概流量，再对照套餐卡片中的权益说明。轻度浏览与多成员共用、需要优先支持的团队，需求不同，直接在套餐对比区并排查看最清楚。</p></details><details><summary>订阅导入失败或无法连接时先做什么？</summary><p>依次检查：订阅是否在有效期内、客户端是否已更新节点、系统时间是否准确、是否误开了冲突的其他代理。仍失败时，更换客户端协议或联系套餐所提供的支持渠道。</p></details><details><summary>可以在手机和电脑上同时用吗？</summary><p>可以，只要不超过所选套餐允许的同时在线设备数。各端使用同一订阅，分别下载对应客户端。公共场合建议只开启需要加速的应用，以节省流量。</p></details><details><summary>44F网络官网是否提供使用评价或测速榜？</summary><p>本页不展示评分、用户评论或未经验证的测速排名，避免把无法核对的数字当成依据。判断服务是否合适，以套餐权益、自身场景和实际连接表现为准。</p></details></section></main><footer>© 44F网络 · 机场订阅与网络加速说明页 · <a href=\"#intro\">回到顶部</a></footer>",
+          "hash": "a65c9e9500f7aedb70ed835d4b68ac295c18fb2f02299322bd3a3dfacf179cd4",
+          "seo": {
+            "title": "44F网络官网｜VPN 梯子网络加速与客户端下载",
+            "keywords": "44F网络,44F网络官网,44F网络VPN,44F网络机场,梯子,网络加速,加速器,客户端下载,机场订阅",
+            "description": "44F网络提供机场订阅与 VPN 梯子网络加速说明，集中展示套餐对比、使用场景、操作步骤和客户端下载入口，方便按需选择加速器方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "milva.cn",
+    "host": "b.milva.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "milva.cn",
+      "url": "https://milva.cn/",
+      "label": "忍者云(RenzheCloud)",
+      "apex": "milva.cn",
+      "kind": null,
+      "identity": "usdhgdcf/page-de008789991409d3d380621c"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d6ec1d1d7bc1d684caa2660d9ae1ee7deb84f363bc7f8184ccd8cff28de549a9",
+    "sitemap.xml": "a9a9db3cfb3ce010940a5f5b3bcdf44da89b31ff629d40fe47ec9953b1c5720a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f947a0dbb5a057d9b67b8cd17a464a6648af54dfe6bb8d1a3ab020f7073a9ea8",
+    "robots.txt": "a940f7539bce2d664100a65a0dac48b784c62aa151136ebf35376b3a22cf12a2",
+    "2e34696bca444f53b2315fa78a4fccd4.txt": "37448fcacdcb2fe63e5ca982409a44acbf4d6a78c42d2e8407d47ce378bda3d5"
+  },
+  "revision": "7f3bdc37b871ab06112469b64d505f187e4d63219d3bc1d21859062336fac65d"
+}
